@@ -105,7 +105,7 @@ button {
 	flex-wrap: wrap;
 }
 .contador-digito{
-	padding: 0  22px; /*estilos do cabeçalho*/
+	padding: 0  18px; 
 	text-align: center;
 	min-width: 100px;
 }
