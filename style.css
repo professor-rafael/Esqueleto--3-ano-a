@@ -104,8 +104,8 @@ button {
 	justify-content: center;
 	flex-wrap: wrap;
 }
-.contador-digito{
-	padding: 10  18px; 
+.contador-digito {
+	padding: 10  26px;
 	text-align: center;
 	min-width: 100px;
 }
